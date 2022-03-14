@@ -582,5 +582,9 @@
     {
         "Method":  "DeleteSuperUserWhenAnotherUserIsSuperTest",
         "CodeunitName":  "User Permissions Test"
+    },
+    {
+        "Method":  "NonExistingUserNameTest",
+        "CodeunitName":  "User Selection Test"
     }
 ]
