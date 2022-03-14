@@ -586,5 +586,9 @@
     {
         "Method":  "NonExistingUserNameTest",
         "CodeunitName":  "User Selection Test"
+    },
+    {
+        "Method":  "ExternalUsersAreNotVisibleTest",
+        "CodeunitName":  "User Selection Test"
     }
 ]
