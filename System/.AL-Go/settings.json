@@ -1,0 +1,12 @@
+﻿{
+    "country":  "us",
+    "appFolders":  [
+                       "System"
+                   ],
+    "testFolders":  [
+                        "System Test Libraries",
+                        "System Tests"
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//base/latest",
+    "enablePerTenantExtensionCop":  false
+}

@@ -1,0 +1,14 @@
+﻿{
+    "country":  "us",
+    "appFolders":  [
+                       "TestFramework\\TestLibraries\\Any",
+                       "TestFramework\\TestLibraries\\Assert",
+                       "TestFramework\\TestLibraries\\Variable Storage",
+                       "TestFramework\\TestRunner"
+                   ],
+    "testFolders":  [
+
+                    ],
+    "artifact":  "bcpublicpreview/sandbox//base/latest",
+    "enablePerTenantExtensionCop":  false
+}
